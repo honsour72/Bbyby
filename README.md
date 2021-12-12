@@ -1,2 +1,3 @@
-# Bbyby
-STARTUP-HACKATON 12|21
+# STARTUP-HACKATON 12|21
+## Команда Bbyby
+
